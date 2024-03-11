@@ -1,0 +1,11 @@
+.overLine{
+    text-decoration: line-through;
+}
+.light{
+    background-color: white;
+    color: black
+}
+.dark{
+    color: white;
+    background-color: black
+}
